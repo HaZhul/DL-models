@@ -5,3 +5,8 @@ DLF_PL/DLF_winter_2024_lab_2_torch_basics.ipynb
 DLF_PL/DLF_winter_2024_lab_3_torch_architectures.ipynb
 DLF_PL/DLF_winter_2024_lab_4_convolutional_neural_networks.ipynb
 /data_Cifar10
+/ImageNetDS
+/ImageNetDSValid
+/DLF_PL/data
+kaggle.json
+best_model_1.pth
