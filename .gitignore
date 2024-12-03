@@ -10,3 +10,5 @@ DLF_PL/DLF_winter_2024_lab_4_convolutional_neural_networks.ipynb
 /DLF_PL/data
 kaggle.json
 best_model_1.pth
+DLF_PL/best_model.pth
+DLF_PL/config.py
